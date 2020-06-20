@@ -1,0 +1,19 @@
+errores:
+  camposVacios:
+    codigo: "Cod001"
+    Mensaje: "Campos no pueden estar vacios"
+
+  camposNulos:
+    codigo: "Cod002"
+    mensaje: "Campos no pueden estar nulos"
+
+  registroNoExiste:
+    codigo: "Cod003"
+    mensaje: "Usuario no exite en nuestro registros"
+
+  errorGlobal:
+    codigo: "Cod400"
+    mensaje: "Se ha producido un error al intentar validar sus credencial, favor vuelva intentar"
+
+jwt:
+  secret: "23people"
